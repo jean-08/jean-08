@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **anything tech-related**
 
-- 📫 How to reach me **jeanrkt08@gmail.com**
+- 📫 How to reach me **jean.rakotoariveloo@gmail.com**
 
 - ⚡ Fun fact **My first program was just printing 'Hello, World!',and I was amazed!**
 
